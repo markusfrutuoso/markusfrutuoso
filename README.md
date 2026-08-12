@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! Eu sou Markus Frutuoso 👋
 
-<!--
-**markusfrutuoso/markusfrutuoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FIAP**
+💻 Focado em **Desenvolvimento Backend**
+🐍 Estudando **Python, APIs, SQL e estruturas de dados**
 
-Here are some ideas to get you started:
+Tenho interesse em **desenvolvimento de software, QA, testes, sustentação e automação de processos**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente construindo projetos e aprimorando meus conhecimentos para iniciar minha carreira profissional em tecnologia.
+
+## 🛠️ Tecnologias
+
+* Python
+* JavaScript
+* SQL
+* HTML & CSS
+
+## 🎯 Objetivo
+
+Evoluir como **desenvolvedor backend**, adquirindo experiência prática e contribuindo para projetos reais.
+
+📫 **LinkedIn:** [www.linkedin.com/in/markusfrutuoso/](https://www.linkedin.com/in/markusfrutuoso/)
+📧 **Email:** [markusviniciosfr@email.com](mailto:markusviniciosfr@email.com)
