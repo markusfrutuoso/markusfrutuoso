@@ -1,15 +1,8 @@
 # Hi, I'm Markus Frutuoso! 👋
 
-🎓 **Systems Analysis and Development student at FIAP**  
+🎓 **Software Development student at FIAP**  
 💻 Interested in **Backend Development and Software Engineering**  
 🐍 Currently developing skills in **Python, Java, and SQL**
-
-## About Me
-
-I am a Software Development student at FIAP with a particular focus on **Backend Development**.
-
-I am currently developing my knowledge of **Python, Java, SQL, Object-Oriented Programming, Data Structures, Git/GitHub, and Relational Databases**.
-
 
 ## 🛠️ Technologies & Skills
 
