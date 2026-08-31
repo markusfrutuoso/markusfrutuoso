@@ -2,12 +2,13 @@
 
 🎓 **Software Development student at FIAP**  
 💻 Interested in **Backend Development and Software Engineering**  
-🐍 Currently developing skills in **Python, Java, and SQL**
+🐍 Currently developing skills in **Python, Java, Spring Boot and SQL**
 
 ## 🛠️ Technologies & Skills
 
 * Python
-* JavaScript
+* Java
+* SpringBoot
 * SQL
 * HTML & CSS
 
