@@ -10,7 +10,8 @@
 * Java
 * SpringBoot
 * SQL
-* HTML & CSS
+* Typescript
+* Playwright
 
 ## 🎯 Goals
 
